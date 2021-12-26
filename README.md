@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fdiazb
+- 🌱 I’m currently improving my skills in nodejs and architectural design.
